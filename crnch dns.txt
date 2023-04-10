@@ -17,3 +17,5 @@ vrv-eec.etp-prod.com
 ytstatic.l.google.com
 api.segment.io
 segment.io
+#foff
+wsv3.fansly.com
